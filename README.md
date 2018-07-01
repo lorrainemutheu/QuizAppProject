@@ -10,6 +10,9 @@ After the user has answered a question and submitted they receive a response on 
 or wrong answer and have an option of trying again.
 A summary of the score is provided at the end after all questions have been answered.
 
+Link to apk file:
+https://drive.google.com/open?id=1Rxt144EMkEQWX3Gvd3ue_Aq0qEVRNCNr
+
 Credits:
 Mutheu Atsiaya
 
